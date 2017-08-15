@@ -14,7 +14,7 @@ Report a property registration error,HMLR
 Report property fraud,HMLR
 Report a recorded sale price error,HMLR
 Sell a property,estate-agent-industry HMLR local-government HMRC
-Mortgage or remortgage a property,financial-industry,HMLR
+Mortgage or remortgage a property,financial-industry HMLR
 Give away a property,HMLR HMRC
 Develop land or property,estate-agent-industry HMLR local-government HMRC
 Update property ownership after a death,HMLR
