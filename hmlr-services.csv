@@ -1,5 +1,4 @@
 Service name,Delivered by
-Find land or property,HMLR
 Research land or property,estate-agent-industry HMLR local-government
 Buy land or property,estate-agent-industry HMLR local-government HMRC
 Claim ownership of land or property,HMLR
