@@ -1,23 +1,20 @@
 Service name,Delivered by
-Research land or property,estate-agent-industry HMLR local-government
+Learn about land or property,estate-agent-industry HMLR local-government
+Find out if there's a mortgage on a property,HMLR
+Find out who owns a property,HMLR
+Get full property details ('official title'),HMLR
+Contact the owner of land or property,HMLR
 Buy land or property,estate-agent-industry HMLR local-government HMRC
 Claim ownership of land or property,HMLR
-Register land or property,HMLR
-Find out who owns a property,HMLR
-Contact the owner of land or property,HMLR
-Find out if there's a mortgage on a property,HMLR
-Get full property details ('official title'),HMLR
-Protect your property against fraud,HMLR
-Use property data,HMLR
-Report a property registration error,HMLR
-Report property fraud,HMLR
-Report a recorded sale price error,HMLR
-Sell land or property,estate-agent-industry HMLR local-government HMRC
 Mortgage or remortgage a property,financial-industry HMLR
-Give away land or property,HMLR HMRC
-Develop land or property,estate-agent-industry HMLR local-government HMRC
-Update property ownership after a death,HMLR
-Update property ownership after divorce or separation,HMLR
-Protect your right to stay in your home during a divorce or separation,HMLR
 Use a property as security for a loan,HMLR
 Use farming stock and equipment as security for a loan,HMLR DEFRA
+Update property ownership,HMLR
+Protect your rights to a property,HMLR
+Report a property registration error,HMLR
+Report property fraud,HMLR
+Develop land or property,estate-agent-industry HMLR local-government HMRC
+Give away land or property,HMLR HMRC
+Sell land or property,estate-agent-industry HMLR local-government HMRC
+Report a recorded sale price error,HMLR
+Use property data,HMLR
