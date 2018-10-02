@@ -1,5 +1,5 @@
 # hmlr-service-register
-HM Land Registry services
+HM Land Registry services register. Produced to support service-oriented transformation programmes.
 
 Currently not canonical, complete or approved.
 
