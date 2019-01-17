@@ -5,7 +5,7 @@ ID,Service name,User needs,Volumes,Existing services,Dealings,Forms,Practice gui
 4,Register a mortgage on land or property,As a lender I need to make sure my financial interest in the property is registered so it can be protected,,,,,,
 5,Register a property for the first time,As someone who owns unregistered land or property I need to make sure it is registered in my name so I can sell it if I need to,,,,,PG1; PG2; PG3; Submit deeds: PG8,
 6,Split land or property title,As the owner of land or property I need to register that I have sold off part of the title so that its boundaries are shown correctly,,,,,,
-7,Register an interest in or right to use land or property,,,,,,Franchises: PG18; Mines and minerals: PG65; Claim prescriptive right: PG52; Right to take something (profit a prendre): PG16; Manorial rights: PG22,
+7,Register an interest in or right to use land or property,,,,,,Franchises: PG18; Mines and minerals: PG65; Claim prescriptive right: PG52; Right to take natural resources (profit a prendre): PG16; Manorial rights: PG22,
 8,Register a right of way over land or property,,,,,,,
 9,Register a restriction or notice on land or property,,,,,,"PG19, PG19a",
 10,Register or cancel a lease on land or property,,,,,,,
